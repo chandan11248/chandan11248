@@ -1,5 +1,5 @@
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 
 <h1 align="center">Hi there, I'm Chandan Kumar Shah 👋</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandan11248&label=Profile%20views&color=0e75b6&style=flat" alt="chandan11248" />
+ 
   <img src="https://img.shields.io/github/followers/chandan11248?label=Followers&style=social" alt="followers" />
 </p>
 
@@ -32,33 +32,18 @@
 
 I am a **curious deep learning student** passionate about pushing the boundaries of AI. I love exploring cutting-edge architectures and optimizing large language models.
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Chandan Kumar Shah"
-        self.role = "Deep Learning Student & AI Engineer"
-        self.location = "Kathmandu, Nepal"
-        self.interests = [
-            "Vision Transformers (ViT)",
-            "LLM Optimization",
-            "Transformer Architecture",
-            "Natural Language Processing",
-            "GPT Architecture (Open-Source)"
-        ]
-        self.expertise = [
-            "LangChain & LangGraph Development",
-            "LangSmith Engineering",
-            "Agentic AI & Autonomous Agents",
-            "n8n Workflow Automation"
-        ]
-        self.current_focus = "Building intelligent autonomous AI agents"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
 
-me = AIEngineer()
-me.say_hi()
-```
+- 🌱 I’m currently learning **Vit,LLM optimization**
+
+- 💬 Ask me about **transformers, NLP,Deep learnig ,GPT-architechture (open-source)**
+
+- 📫 How to reach me **letschandansah@gmail.com**
+
+- ⚡ Fun fact **human:want to be god**
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+</p>
 
 ---
 
@@ -147,21 +132,10 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chandan11248&show_icons=true&theme=radical&hide_border=false&count_private=true&cache_seconds=1800" />
+
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan11248&theme=radical&hide_border=false" />
 </p>
 
-<p align="left">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan11248&layout=compact&theme=radical&hide_border=false&cache_seconds=1800" />
-</p>
-
-> **Note**: If stats don't appear, try these solutions:
-> 1. Make sure your GitHub repositories are **public** (stats don't count private repos by default)
-> 2. Wait a few minutes for the API to generate fresh stats
-> 3. Try refreshing the page or clearing browser cache
-> 4. The services might be temporarily down - check status at [GitHub Stats Status](https://github.com/anuraghazra/github-readme-stats/issues)
-
----
 
 ### 📈 Activity Graph
 
