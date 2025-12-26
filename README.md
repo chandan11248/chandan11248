@@ -1,7 +1,5 @@
-[banner.png](https://postimg.cc/Sjy5jxg7)
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+[![banner.png](https://i.postimg.cc/QN5r4B5P/banner.png)](https://postimg.cc/Sjy5jxg7)
 
 <h1 align="center">Hi there, I'm Chandan Kumar Shah 👋</h1>
 
