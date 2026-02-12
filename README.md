@@ -1,4 +1,4 @@
-[![p.gif](https://i.postimg.cc/BnLQgktM/p.gif)](https://postimg.cc/hXnB4CLd)
+![My Diagram](https://raw.githubusercontent.com/chandan11248/web-programming/main/github_banner.svg)
 
 
 <h1 align="center">Hi there, I'm Chandan Kumar Shah 👋</h1>
